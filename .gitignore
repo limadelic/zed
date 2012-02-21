@@ -1,0 +1,7 @@
+/.idea
+/node_modules
+/tests/FitNesseRoot/ErrorLogs
+/tests/FitNesseRoot/RecentChanges
+/tests/FitNesseRoot/files
+lib/*.js
+*.jar
